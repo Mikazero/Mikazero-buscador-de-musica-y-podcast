@@ -1,4 +1,4 @@
-package com.aluracursos.musica.modelos;
+package com.aluracursos.musica.principal;
 import com.aluracursos.musica.modelos.Cancion;
 import com.aluracursos.musica.modelos.Podcast;
 
